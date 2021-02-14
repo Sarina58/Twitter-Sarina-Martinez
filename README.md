@@ -2,6 +2,8 @@
 
 This is a basic twitter app to read your tweets.
 
+Submitted by: Sarina Martinez
+
 Time spent: **7 hours and 20 minutes** hours spent in total
 
 ## User Stories
