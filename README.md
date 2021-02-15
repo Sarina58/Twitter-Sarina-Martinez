@@ -25,4 +25,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Sarina58/Twitter-Sarina-Martinez/blob/main/(Twitter)ezgif.com-gif-maker.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Sarina58/Twitter-Sarina-Martinez/blob/main/(Twitter%20Part%201)ezgif.com-gif-maker%20(2).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
